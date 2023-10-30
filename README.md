@@ -18,7 +18,7 @@ Welcome to my profile! I am a second year Computer Science Student at [Middlesex
 ## Other Facts:  
 
 
-### IDE:  
+### IDE Using:  
 - ⌨️ I use Visual Studio Code & Eclipse for Java  
   
 
@@ -69,7 +69,7 @@ Welcome to my profile! I am a second year Computer Science Student at [Middlesex
 
 <br/>  
 
-
+<!---
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -80,3 +80,4 @@ Welcome to my profile! I am a second year Computer Science Student at [Middlesex
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scarletceballos&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
+---->
