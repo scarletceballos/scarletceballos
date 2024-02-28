@@ -9,7 +9,7 @@
 
 
 ### About Me  
-Welcome to my profile! I am a second year Computer Science Student at [Middlesex County College](https://middlesexcollege.edu/) and hope to transfer to [New Jersey Institute of Technology](https://computing.njit.edu/). While my school mainly teaches Java, I want to learn other popular languages and present them through here as well as keeping my projects open source and available for everyone. I hope to create many projects and build a better experience towards my CS journey along with getting my first Software Engineering internship!  
+Welcome to my profile! I am a second year Computer Science Student at [Middlesex County College](https://middlesexcollege.edu/) and transferring [New Jersey Institute of Technology](https://computing.njit.edu/). While my school mainly teaches Java, I want to learn other popular languages and present them through here as well as keeping my projects open source and available for everyone. I hope to create many projects and build a better experience towards my CS journey along with getting my first Software Engineering internship!  
   
 
 <br/>  
@@ -60,7 +60,7 @@ Welcome to my profile! I am a second year Computer Science Student at [Middlesex
 ### Self-Learning  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> 
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 </div>
