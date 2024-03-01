@@ -9,39 +9,7 @@
 
 
 ### About Me  
-Welcome to my profile! I am a second year Computer Science Student at [Middlesex County College](https://middlesexcollege.edu/) and transferring [New Jersey Institute of Technology](https://computing.njit.edu/). While my school mainly teaches Java, I want to learn other popular languages and present them through here as well as keeping my projects open source and available for everyone. I hope to create many projects and build a better experience towards my CS journey along with getting my first Software Engineering internship!  
-  
-
-<br/>  
-
-
-## Other Facts:  
-
-
-### IDE Using:  
-- ⌨️ I use Visual Studio Code & Eclipse for Java  
-  
-
-
-
-### Current Focus:  
-- 🌐 I am currently focusing on React and HTML  
-  
-
-
-
-### Operating Systems:  
-- 💻 I use both Windows and Arch Linux  
-  
-
-
-
-### Other Tech Info:  
-- 🐊 I go to mostly online Hackathons; [Global Hack Week](https://ghw.mlh.io/) is where I mainly atttend  
-  
-
-<br/>  
-
+Welcome to my profile! I am a second year Computer Science Student at [Middlesex County College](https://middlesexcollege.edu/) and transferring [New Jersey Institute of Technology](https://computing.njit.edu/). While my school mainly teaches Java, I want to learn other popular languages and present them through here as well as keeping my projects open source and available for everyone. I hope to create many projects and build a better experience towards my CS journey along with getting my first Software Engineering internship! 
 
 ## Languages and Tools  
 <table><tr><td valign="top" width="50%">
