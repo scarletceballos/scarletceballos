@@ -7,4 +7,4 @@
 
 
 ### About Me  
-Welcome to my profile! I am a Computer Science Student learning Java and Python. All of my school projects will be shared here.
+Welcome to my profile! I am a junior majoring in Computer Science at New Jersey Institute of Technology. Here will be all my school/hackathon projects that I will put public.
