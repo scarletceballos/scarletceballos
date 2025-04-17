@@ -1,4 +1,4 @@
-## Hi, my name is Scarlet Ceballos!  
+## Hi, my name is Scarlet!  
   
 
 <a href="https://linkedin.com/in/scarletceballos" target="_blank">
@@ -7,4 +7,4 @@
 
 
 ### About Me  
-Welcome to my profile! I am a junior majoring in Computer Science at New Jersey Institute of Technology. Here will be all my school/hackathon projects that I will put public.
+Welcome to my profile! I am a senior majoring in Computer Science at New Jersey Institute of Technology. Here will be all my school/hackathon projects that I will put public.
