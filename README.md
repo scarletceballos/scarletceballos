@@ -15,25 +15,6 @@ Undergraduate at NJIT (B.S. in Information Technology, expected 2027) with an A.
 - Active hackathon competitor — GDC25 winner, GirlHacks, NJITHacks alum
 - Interested in HCI/XR research — expected to research in the [NJIT IXR](https://www.margaritavinnikov.com/research-portfolio) Lab this fall
 
-## Tech Stack
-
-### **Languages:** 
-[![My Launguages](https://skillicons.dev/icons?i=java,py,cpp,cs,js,ts)](https://skillicons.dev)
-
-<sup><i>Java, Python, C++, C#, Javascript, TypeScript</i></sup>
-
-### **Frameworks:**
-[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,tailwindcss)](https://skillicons.dev)
-
-<sup><i>React, Next.JS, Flutter, Node.JS, TailwindCSS, *React Native</i></sup>
-
-### **Tools:** 
-[![My Tools](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux)](https://skillicons.dev)
-
-<sup><i>Git, Github, Visual Studio Code, Android Studio, Linux</i></sup>
-
----
-
 ## Featured Projects
 
 ### [HopeLinker](https://github.com/afshanzubia2005/Hopelinker-GDC25) | [(Video)](https://www.youtube.com/watch?v=B8LVgMdjjOI)
@@ -55,8 +36,21 @@ A steampunk-themed digital art marketplace combining Hugging Face generative AI 
 
 ---
 
-## 📌 Currently
+## Tech Stack
 
-- Seeking **internship opportunities** in software engineering/IT specialist
-- Preparing to start research with the IXR Lab at NJIT this fall
-- Open to collaborating on hackathon teams and side projects
+### **Languages:** 
+[![My Launguages](https://skillicons.dev/icons?i=java,py,cpp,cs,js,ts)](https://skillicons.dev)
+
+<sup><i>Java, Python, C++, C#, Javascript, TypeScript</i></sup>
+
+### **Frameworks:**
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,tailwindcss)](https://skillicons.dev)
+
+<sup><i>React, Next.JS, Flutter, Node.JS, TailwindCSS, *React Native</i></sup>
+
+### **Tools:** 
+[![My Tools](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux)](https://skillicons.dev)
+
+<sup><i>Git, Github, Visual Studio Code, Android Studio, Linux</i></sup>
+
+---
