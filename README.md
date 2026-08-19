@@ -49,8 +49,8 @@ A steampunk-themed digital art marketplace combining Hugging Face generative AI 
 <sup><i>React, Next.JS, Flutter, Node.JS, TailwindCSS, *React Native</i></sup>
 
 ### **Tools:** 
-[![My Tools](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,androidstudio,linux)](https://skillicons.dev)
 
-<sup><i>Git, Github, Visual Studio Code, Android Studio, Linux</i></sup>
+<sup><i>Visual Studio Code, Android Studio, Linux</i></sup>
 
 ---
