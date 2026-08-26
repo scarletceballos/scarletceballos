@@ -2,18 +2,17 @@
 
 Undergraduate at NJIT (B.S. in Information Technology, expected 2027) with an A.S. in Computer Science from Middlesex County College. I build full-stack apps and love jumping into hackathons, and I'm currently **looking for internships/part-time employment** in software engineering/IT specialist.
 
-📫 Reach me: [LinkedIn](https://linkedin.com/in/scarletceballos) · [Portfolio (coming soon)](#) · ceballosscarlet@hotmail.com
+Reach me: [LinkedIn](https://linkedin.com/in/scarletceballos) · [Portfolio (coming soon)](#) · ceballosscarlet [at] hotmail [dot] com
 
-📄 [Download my Resume](https://onedrive.live.com/?viewid=2c0745e5%2D04ec%2D4109%2D950d%2Dbed1bc8202c3&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy84OGNkMzU2MzA5MTI3M2NmL0lRQThmNmhHWUx3VlRiTkVlS3o5aXZNU0FUODVTN3RVQWVzVFd1UjhmVGJ2RWpjP2U9Y2FHWUhX&ga=1&id=%2Fpersonal%2F88cd3563091273cf%2FDocuments%2FScarletCeballos%5FResume%2Epdf&listurl=%2Fpersonal%2F88cd3563091273cf%2FDocuments&parent=%2Fpersonal%2F88cd3563091273cf%2FDocuments)
+[Download my Resume](https://onedrive.live.com/?viewid=2c0745e5%2D04ec%2D4109%2D950d%2Dbed1bc8202c3&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy84OGNkMzU2MzA5MTI3M2NmL0lRQThmNmhHWUx3VlRiTkVlS3o5aXZNU0FUODVTN3RVQWVzVFd1UjhmVGJ2RWpjP2U9Y2FHWUhX&ga=1&id=%2Fpersonal%2F88cd3563091273cf%2FDocuments%2FScarletCeballos%5FResume%2Epdf&listurl=%2Fpersonal%2F88cd3563091273cf%2FDocuments&parent=%2Fpersonal%2F88cd3563091273cf%2FDocuments)
 
 ---
 
 ## About Me
 
 - Studying Information Technology at NJIT, graduating May 2027
-- Comfortable across the stack — Java, Python, TypeScript, C/C++, C#, JavaScript
 - Active hackathon competitor — GDC25 winner, GirlHacks, NJITHacks alum
-- Interested in HCI/XR research — expected to research in the [NJIT IXR](https://www.margaritavinnikov.com/research-portfolio) Lab this fall
+- Participating in HCI/XR/VR research — Researching and developing an AI interface at [NJIT IXR](https://www.margaritavinnikov.com/research-portfolio) Lab this fall
 
 ## Featured Projects
 
