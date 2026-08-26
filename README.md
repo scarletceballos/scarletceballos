@@ -33,24 +33,3 @@ A course-recommendation platform with a FastAPI + MongoDB backend and a fully re
 ### [PixelPunkLabs](https://devpost.com/software/pixelpunklabs)
 **NJITHacks 2024** — HTML, CSS, Python, TypeScript
 A steampunk-themed digital art marketplace combining Hugging Face generative AI with Midnight Protocol blockchain NFT minting, plus in-browser editing via the Adobe Creative SDK.
-
----
-
-## Tech Stack
-
-### **Languages:** 
-[![My Launguages](https://skillicons.dev/icons?i=java,py,cpp,cs,js,ts)](https://skillicons.dev)
-
-<sup><i>Java, Python, C++, C#, Javascript, TypeScript</i></sup>
-
-### **Frameworks:**
-[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,tailwindcss)](https://skillicons.dev)
-
-<sup><i>React, Next.JS, Flutter, Node.JS, TailwindCSS, *React Native</i></sup>
-
-### **Tools:** 
-[![My Tools](https://skillicons.dev/icons?i=vscode,androidstudio,linux)](https://skillicons.dev)
-
-<sup><i>Visual Studio Code, Android Studio, Linux</i></sup>
-
----
