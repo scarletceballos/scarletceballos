@@ -10,7 +10,6 @@ Reach me: [LinkedIn](https://linkedin.com/in/scarletceballos) · [Portfolio (com
 
 ## About Me
 
-- Studying Information Technology at NJIT, graduating May 2027
 - Active hackathon competitor — GDC25 winner, GirlHacks, NJITHacks alum
 - Participating in HCI/XR/VR research — Researching and developing an AI interface at [NJIT IXR](https://www.margaritavinnikov.com/research-portfolio) Lab this fall
 
