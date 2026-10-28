@@ -4,7 +4,7 @@ Undergraduate at NJIT (B.S. in Information Technology, expected 2027) with an A.
 
 Reach me: [LinkedIn](https://linkedin.com/in/scarletceballos) · [Portfolio](https://scarletceballos.vercel.app/) · ceballosscarlet [at] hotmail [dot] com
 
-[Download my Resume](https://scarletceballos.vercel.app/resume/ScarletCeballos_Resume.pdf)
+[Download my Resume](https://1drv.ms/b/c/88cd3563091273cf/IQA8f6hGYLwVTbNEeKz9ivMSAT85S7tUAesTWuR8fTbvEjc?e=I0kn2y)
 
 ---
 
