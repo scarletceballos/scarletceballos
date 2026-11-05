@@ -12,6 +12,9 @@ Reach me: [LinkedIn](https://linkedin.com/in/scarletceballos) · [Portfolio](htt
 
 - Active hackathon competitor — GDC25 winner, GirlHacks, NJITHacks alum
 - Participating in HCI/XR/VR research — Researching and developing an AI interface at [NJIT IXR](https://www.margaritavinnikov.com/research-portfolio) Lab this fall
+- CodePath Alumna
+  - [WEB102 - Intermediate Web Development](https://github.com/stars/scarletceballos/lists/codepath-web102)
+  - [AI110 - Foundations of Applied AI Engineering](https://github.com/stars/scarletceballos/lists/codepath-ai110)
 
 ## Featured Projects
 
